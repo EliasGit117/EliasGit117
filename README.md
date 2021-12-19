@@ -30,7 +30,7 @@
 &nbsp;
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="40" >
 &nbsp;
-<img src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" height="40" >
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" height="40" >
 &nbsp;
 <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" height="40" >
 &nbsp;
